@@ -58,8 +58,8 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-8 flex flex-col items-center justify-center text-xs md:text-base sm:flex-row border-t text-center text-muted-foreground">
-          <p >&copy; {new Date().getFullYear()} Golden Yurt Cafe. Made with 💖 by Turdugul.</p>
+        <div className="mt-8 pt-8 flex flex-col gap-1 items-center justify-center text-xs md:text-base sm:flex-row border-t text-center text-muted-foreground">
+          <p >&copy; {new Date().getFullYear()} Golden Yurt Cafe. Made with 💖 by Turdugul. </p>
           <p> All rights reserved.</p>
         </div>
       </div>
