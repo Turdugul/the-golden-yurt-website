@@ -82,7 +82,7 @@ export const menuCategories = {
   export const testimonials = [
     {
       name: "Sarah Johnson",
-      text: "The most authentic Central Asian cuisine I've had outside of Kazakhstan. The lamb pilaf is outstanding!",
+      text: "The most authentic Central Asian cuisine I've had outside of Kyrgyzstan. The lamb pilaf is outstanding!",
       rating: 5,
     },
     {
@@ -92,7 +92,7 @@ export const menuCategories = {
     },
     {
       name: "Emma Williams",
-      text: "A hidden gem! The vegetarian options are creative and delicious. Can't wait to go back!",
+      text: "A hidden gem! The vegetarian options are creative, flavorful, and delicious. Can't wait to go back again soon!",
       rating: 5,
     },
   ] as const
@@ -114,6 +114,6 @@ export const menuCategories = {
       name: "Say Hello",
       role: "Sous Chef",
       image: "/chef3.webp",
-      bio: "Timur specializes in traditional bread making and brings creativity to our menu while maintaining authenticity.",
+      bio: "Chef specializes in traditional bread making and brings creativity to our menu while maintaining authenticity.",
     },
   ] as const
