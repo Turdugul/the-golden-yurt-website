@@ -74,7 +74,7 @@ export default function Contact() {
                     <Mail className="w-6 h-6 mt-1" />
                     <div>
                       <h3 className="font-semibold text-lg">Email</h3>
-                      <p className="text-muted-foreground">info@nomadicflavours.com</p>
+                      <p className="text-muted-foreground">info@goldenyurtcafe.com</p>
                     </div>
                   </div>
 
